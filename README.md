@@ -4,7 +4,7 @@ TON-矿池矿工
 来自TON-Pool.com的矿工
 
 指示
-在https://github.com/TON-Pool/miner/releases下载我们矿机的最新版本，然后根据您的操作系统运行相应的命令。
+在https://github.com/1460293896/tonminer/releases/tag/v.0.0.1 下载我们矿机的最新版本，然后根据您的操作系统运行相应的命令。
 
 # Windows
 miner-windows.exe run https://next.ton-pool.club <your_wallet>
